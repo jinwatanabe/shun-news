@@ -19,6 +19,8 @@
     "webpack-dev-server": "^5.0.2"
   },
   "dependencies": {
-    "docx": "^8.5.0"
+    "axios": "^1.6.7",
+    "docx": "^8.5.0",
+    "dotenv": "^16.4.5"
   }
 }
